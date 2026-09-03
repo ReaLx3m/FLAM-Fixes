@@ -5,6 +5,7 @@ Implements needed changes due to latest API change for Trakt to work again in Fe
 Replace your old trakt_api.py with this one, located in Kodi\addons\plugin.video.fenlight\resources\lib\apis. 
 
 
+
 **[request_client.py](https://github.com/ReaLx3m/FLAM-Fixes/blob/main/request_client.py)**
 
 Fix for youtube trailers video freezing and audio stuttering. Client id has been changed as per this commit https://github.com/anxdpanic/plugin.video.youtube/pull/1482/changes/71a8d9b4b5ceb4cd352843cb050c364bf7be3463
